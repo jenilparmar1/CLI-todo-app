@@ -28,7 +28,7 @@ A **Command-Line Interface (CLI)** task management application built in Python, 
 1.Clone the repository (or copy the files):
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/jenilparmar1/CLI-todo-app
 cd task-tracker
 ```
 
@@ -68,13 +68,13 @@ Each task includes:
 <img src="example_uses\add_task.png">
 
 - **Delete Task**
-<img src="example uses\Delete_task.png">
+<img src="example_uses\Delete_task.png">
 
 - **Edit Status**
-<img src="example uses\Edit_status.png">
+<img src="example_uses\Edit_status.png">
 
 - **Edit Task**
-<img src="example uses\Edit_task.png">
+<img src="example_uses\Edit_task.png">
 
 - **Filtering Tasks**
 <img src="example_uses\Show_tasks_by_filter.png">
