@@ -16,16 +16,14 @@ A **Command-Line Interface (CLI)** task management application built in Python, 
 
 ---
 
-##✅ Dependencies
-colorama - For colored terminal output
-
-tabulate - For formatted tables
-
-Python standard libraries: json, os, datetime
+## ✅ Dependencies
+- colorama - For colored terminal output
+- tabulate - For formatted tables
+- Python standard libraries: json, os, datetime
 
 ---
 
-##📥 Installation
+## 📥 Installation
 
 1.Clone the repository (or copy the files):
 
@@ -63,3 +61,28 @@ Each task includes:
 ```
 
 ---
+
+## ⚙️ Functionalities 
+
+- **Add Task**
+<img src="example_uses\add_task.png">
+
+- **Delete Task**
+<img src="example uses\Delete_task.png">
+
+- **Edit Status**
+<img src="example uses\Edit_status.png">
+
+- **Edit Task**
+<img src="example uses\Edit_task.png">
+
+- **Filtering Tasks**
+<img src="example_uses\Show_tasks_by_filter.png">
+
+---
+
+## 🛡️ Error Handling
+- Graceful handling of invalid JSON or empty files
+- Input validation for status updates and filtering
+- Catching and displaying human-friendly time info even on corrupt timestamps
+
